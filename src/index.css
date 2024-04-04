@@ -30,7 +30,7 @@ h1{
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 900;
-  color: #666;
+  color: mediumslateblue;
 }
 form{
   width: 100%;
@@ -96,10 +96,14 @@ ul li button:disabled{
 }
 
 .row #delete{
-  background: crimson;
+  background: mediumslateblue;
 }
 label{
   cursor: pointer;
+}
+h2{
+  text-align: center;
+  color: mediumslateblue;
 }
 @media (max-width : 400px){
   .App{
